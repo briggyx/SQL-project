@@ -30,7 +30,7 @@ Answer:
 
 
 SQL Queries:
-
+git@github.com:briggyx/SQL-project.git
 
 
 Answer:
