@@ -5,6 +5,7 @@ Answer the following questions and provide the SQL queries used to find the answ
 
 
 SQL Queries:
+
 SELECT country, SUM(product_price) AS total_transaction_revenue
 FROM all_sessions
 WHERE 
