@@ -1,4 +1,5 @@
 --Before cleaning data, the tables need to be created and filled with data
+--I've included the tables I used in a zip folder called ecommerce dataset.zip
 
 CREATE TABLE all_sessions (
 	full_visitor_id VARCHAR, 
