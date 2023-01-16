@@ -1,5 +1,4 @@
-# SQL-project
-Lighthouse Labs project 1
+# Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
 
