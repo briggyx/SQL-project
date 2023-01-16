@@ -1,5 +1,6 @@
 --Before cleaning data, the tables need to be created and filled with data
 --I've included the tables I used in a zip folder called ecommerce dataset.zip
+--Before uploading the tables, I standardized the attribue names to all lower case and with spaces separated by '_'
 
 CREATE TABLE all_sessions (
 	full_visitor_id VARCHAR, 
